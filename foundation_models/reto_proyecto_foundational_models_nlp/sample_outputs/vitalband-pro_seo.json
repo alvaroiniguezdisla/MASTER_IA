@@ -1,0 +1,52 @@
+{
+  "product_name": "VitalBand Pro",
+  "category": "reloj inteligente deportivo",
+  "target_customer": "deportistas amateurs y usuarios que quieren monitorizar su bienestar diario",
+  "keywords": {
+    "primary": "vitalband pro reloj inteligente deportivo",
+    "secondary": [
+      "comprar vitalband pro",
+      "reloj inteligente deportivo online",
+      "mejor reloj inteligente deportivo",
+      "vitalband pro opiniones"
+    ],
+    "long_tail": [
+      "vitalband pro para deportistas amateurs y usuarios que quieren monitorizar su bienestar diario",
+      "dónde comprar vitalband pro online",
+      "reloj inteligente deportivo con batería de 10 días"
+    ],
+    "negative_keywords": [
+      "gratis",
+      "segunda mano",
+      "manual pirata"
+    ]
+  },
+  "description": {
+    "meta_title": "VitalBand Pro: reloj inteligente deportivo premium",
+    "meta_description": "Descubre VitalBand Pro, una solución de reloj inteligente deportivo para deportistas amateurs y usuarios que quieren monitorizar su bienestar diario, con batería de 10 d…",
+    "short_description": "VitalBand Pro es una propuesta de reloj inteligente deportivo pensada para deportistas amateurs y usuarios que quieren monitorizar su bienestar diario. Combina batería de 10 días, monitorización de sueño, resistencia al agua con una presentación clara para facilitar la compra online.",
+    "bullet_points": [
+      "Diseñado para deportistas amateurs y usuarios que quieren monitorizar su bienestar diario.",
+      "Diferenciador principal: batería de 10 días.",
+      "Descripción preparada para mejorar la visibilidad en buscadores.",
+      "Estructura clara para ficha de producto, anuncios y landing pages."
+    ],
+    "call_to_action": "Añade VitalBand Pro a tu catálogo y mejora la conversión de tu ecommerce.",
+    "seo_score": 88,
+    "tone": "profesional",
+    "search_intent": "transaccional"
+  },
+  "metadata": {
+    "generated_at": "2026-05-04T09:55:14.145324+00:00",
+    "model": "gpt-4o-2024-08-06",
+    "language": "es",
+    "industry": "reloj inteligente deportivo",
+    "api_mode": "demo_mock",
+    "request_id": "demo-vitalband-pro"
+  },
+  "validation_notes": [
+    "La salida cumple el schema esperado.",
+    "El contenido está orientado a ecommerce y SEO.",
+    "La respuesta demo permite ejecutar el notebook sin API key real."
+  ]
+}

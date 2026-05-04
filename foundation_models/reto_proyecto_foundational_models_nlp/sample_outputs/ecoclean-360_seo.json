@@ -1,0 +1,52 @@
+{
+  "product_name": "EcoClean 360",
+  "category": "servicio de limpieza ecológica a domicilio",
+  "target_customer": "familias y profesionales que buscan limpieza sostenible en grandes ciudades",
+  "keywords": {
+    "primary": "ecoclean 360 servicio de limpieza ecológica a domicilio",
+    "secondary": [
+      "comprar ecoclean 360",
+      "servicio de limpieza ecológica a domicilio online",
+      "mejor servicio de limpieza ecológica a domicilio",
+      "ecoclean 360 opiniones"
+    ],
+    "long_tail": [
+      "ecoclean 360 para familias y profesionales que buscan limpieza sostenible en grandes ciudades",
+      "dónde comprar ecoclean 360 online",
+      "servicio de limpieza ecológica a domicilio con productos biodegradables"
+    ],
+    "negative_keywords": [
+      "gratis",
+      "segunda mano",
+      "manual pirata"
+    ]
+  },
+  "description": {
+    "meta_title": "EcoClean 360: servicio de limpieza ecológica a domicilio premium",
+    "meta_description": "Descubre EcoClean 360, una solución de servicio de limpieza ecológica a domicilio para familias y profesionales que buscan limpieza sostenible en grandes ciudades, con p…",
+    "short_description": "EcoClean 360 es una propuesta de servicio de limpieza ecológica a domicilio pensada para familias y profesionales que buscan limpieza sostenible en grandes ciudades. Combina productos biodegradables, reserva online, personal verificado con una presentación clara para facilitar la compra online.",
+    "bullet_points": [
+      "Diseñado para familias y profesionales que buscan limpieza sostenible en grandes ciudades.",
+      "Diferenciador principal: productos biodegradables.",
+      "Descripción preparada para mejorar la visibilidad en buscadores.",
+      "Estructura clara para ficha de producto, anuncios y landing pages."
+    ],
+    "call_to_action": "Añade EcoClean 360 a tu catálogo y mejora la conversión de tu ecommerce.",
+    "seo_score": 88,
+    "tone": "profesional",
+    "search_intent": "transaccional"
+  },
+  "metadata": {
+    "generated_at": "2026-05-04T09:55:14.146664+00:00",
+    "model": "gpt-4o-2024-08-06",
+    "language": "es",
+    "industry": "servicio de limpieza ecológica a domicilio",
+    "api_mode": "demo_mock",
+    "request_id": "demo-ecoclean-360"
+  },
+  "validation_notes": [
+    "La salida cumple el schema esperado.",
+    "El contenido está orientado a ecommerce y SEO.",
+    "La respuesta demo permite ejecutar el notebook sin API key real."
+  ]
+}
